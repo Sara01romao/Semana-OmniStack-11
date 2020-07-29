@@ -6,7 +6,7 @@
 
 
 ## 💻  Projeto Be-The-Hero
-Projeto que conecta pessoas com  ONGs que precisam de ajuda.
+Projeto que conecta pessoas com  ONGs que precisam de ajuda. 
 
 <br>
 
@@ -20,8 +20,9 @@ Knex JS
 Front-end
 ```
 React JS
-React Native 
+
 ```
+Desenvolvido apenas a parte de web.
 <h6 align="center">   1º tela.</h6>
 
 ![Login](https://user-images.githubusercontent.com/46323667/77810125-a0d2b400-7071-11ea-9285-9eb231aaab61.png)
